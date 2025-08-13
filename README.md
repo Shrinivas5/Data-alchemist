@@ -60,7 +60,7 @@ Data Alchemist/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-alchemist.git
+   git clone https://github.com/Shrinivas5/Data-alchemist.git
    cd data-alchemist
    ```
 
