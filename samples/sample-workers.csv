@@ -1,0 +1,4 @@
+name,email,skills,hourly_rate,availability,location,experience,rating,specializations,max_hours_per_week
+Sarah Chen,sarah.chen@email.com,"React,TypeScript,Node.js,AWS",85,available,San Francisco CA,5,4.8,"Frontend Development,Cloud Architecture",40
+Marcus Johnson,marcus.j@email.com,"UI/UX,Figma,Adobe Creative Suite,Prototyping",75,available,New York NY,7,4.9,"User Experience,Visual Design",35
+Elena Rodriguez,elena.r@email.com,"Python,Data Science,Machine Learning,SQL",95,busy,Austin TX,8,4.7,"Data Analysis,AI/ML",30

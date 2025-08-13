@@ -1,0 +1,4 @@
+name,email,priority,budget,location,industry,requirements
+TechCorp Solutions,contact@techcorp.com,high,50000,San Francisco CA,Technology,"React,Node.js,AWS"
+Design Studio Pro,hello@designstudio.com,medium,25000,New York NY,Design,"UI/UX,Figma,Branding"
+FinanceFlow Inc,info@financeflow.com,high,75000,Chicago IL,Finance,"Python,Data Analysis,Security"

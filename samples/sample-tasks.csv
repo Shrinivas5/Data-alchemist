@@ -1,0 +1,4 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,E-commerce Platform Development,Development,3,"React,Node.js,PostgreSQL","[1,2,3]",2
+T2,Brand Identity Design,Design,2,"Branding,Figma,Illustration","[1,2]",1
+T3,Financial Data Analysis,Analytics,4,"Python,Data Visualization,SQL","[2,3,4]",1
